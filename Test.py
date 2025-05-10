@@ -1,2 +1,3 @@
 x = input("Enter Your Name Boss\n")
-print(x)
+y = input("Thank you")
+print(y+x)
